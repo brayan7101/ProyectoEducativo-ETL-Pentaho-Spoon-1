@@ -21,16 +21,24 @@ Pregunta de negocio a resolver.
 
 ¿Cual es el nivel educativo más alto alcanzado por las personas encuestadas?; tenga en cuenta que la gráfica tiene y/o debe poderse agrupar y/o filtrar por clase, departamento, dominio, mes, estrato, y sexo.
 
-Imagenes 
-![Proyecto Final, img1](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_17.png)
-![Proyecto Final, img2](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_18.png)
-![Proyecto Final, img3](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_19.png)
-![Proyecto Final, img4](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_20.png)
-![Proyecto Final, img5](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_21.png)
-![Proyecto Final, img6](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_22.png)
-![Proyecto Final, img7](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_23.png)
-![Proyecto Final, img8](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_24.png)
-
 Videos de la solución
 1. https://youtu.be/Ulc0zj4ff8E
 2. https://youtu.be/o3q7jHdlp6c
+
+Imagenes 
+![Proyecto Final, img1](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_17.png)
+
+![Proyecto Final, img2](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_18.png)
+
+![Proyecto Final, img3](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_19.png)
+
+![Proyecto Final, img4](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_20.png)
+
+![Proyecto Final, img5](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_21.png)
+
+![Proyecto Final, img6](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_22.png)
+
+![Proyecto Final, img7](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_23.png)
+
+![Proyecto Final, img8](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_24.png)
+
