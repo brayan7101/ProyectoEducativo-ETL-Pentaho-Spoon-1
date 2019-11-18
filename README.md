@@ -7,6 +7,12 @@ La fuente para este proyecto será.
 Al final mostramos las graficas usando 
 https://www.qlik.com/es-es/products/qlikview 
 
+URL de la solución ETL - Spoon
+https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Per_so_na.ktr
+
+No Olvides decargar Pentaho Data Integration
+https://community.hitachivantara.com/s/article/data-integration-kettle
+
 La URL de la información general se encuentra aquí.
 http://microdatos.dane.gov.co/index.php/catalog/341/get_microdata
 Personas 2010   zip44.69 MB
