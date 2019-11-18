@@ -30,3 +30,7 @@ Imagenes
 ![Proyecto Final, img6](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_22.png)
 ![Proyecto Final, img7](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_23.png)
 ![Proyecto Final, img8](https://github.com/rafaelguillermo/ProyectoEducativo-ETL-Pentaho-Spoon-1/blob/master/Screenshot_24.png)
+
+Videos de la solución
+1. https://youtu.be/Ulc0zj4ff8E
+2. https://youtu.be/o3q7jHdlp6c
